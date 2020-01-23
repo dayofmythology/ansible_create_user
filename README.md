@@ -47,4 +47,3 @@ Author Information
 ------------------
 
 Mohamed Ait
-dayofmythology@gmail.com
